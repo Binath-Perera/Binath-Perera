@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Binath
 - 👀 I’m interested in sciences , humanities and sports
-- 🌱 I’m currently learning about building computers and software
+- 🌱 Constantly improving knowledge about building computers and software
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me at binathpr@gmail.com
 
